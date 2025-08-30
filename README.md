@@ -1,40 +1,84 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
-</p>
-<h2 align="center">Hello there! My name is Yash Sahijwani. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+ <img  width="800" height="350" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+<h2 align="center">مرحباً 👋 | Hello There!</h2>
 
-<p align="center"><a href="https://twitter.com/terabyte_17"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yash_sahijwani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p align="center"> 
+اسمي <b>مجاهد محمد</b>، أعمل كـ GIS Specialist ومهندس استشاري في مجال الطرق. 🌍  
+مهتم باستخدام الذكاء الاصطناعي وعلوم البيانات في تحليل وتحسين البنية التحتية. 🛣️  
+حالياً أركز على مشاريع رفع جودة الطرق بمدينة الرياض.  
 </p>
 
-<p align=center>
-  <a href="https://github.com/Terabyte17">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
-  </a>
-</p>
 <p align="center">
-<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
+My name is <b>Mujahid Mohamed</b>, I work as a GIS Specialist and Consultant Engineer in the field of Roads. 🌍  
+I’m passionate about integrating Artificial Intelligence & Data Science with GIS to support Infrastructure Development. 🛣️  
+Currently focusing on Road Quality Improvement projects in Riyadh.  
 </p>
+
+---
+
 <p align="center">
-<img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+<img src="https://img.shields.io/badge/GIS-blue"> 
+<img src="https://img.shields.io/badge/Artificial Intelligence-green"> 
+<img src="https://img.shields.io/badge/Remote Sensing-orange"> 
+<img src="https://img.shields.io/badge/Road Engineering-brown"> 
+<img src="https://img.shields.io/badge/Data Science-purple"> 
 </p>
-<hr>
+
+---
+
+### 🛠️ المهارات | Skills  
+
 <p align="center">
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ArcGIS-%23007ACC.svg?&style=for-the-badge&logo=esri&logoColor=white"/> 
+<img src="https://img.shields.io/badge/FME-ffcc00?style=for-the-badge&logo=FME&logoColor=black"/> 
+<img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/> 
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+---
+
+### 🚀 المشاريع | Projects  
+
+#### 📍 مشروع رفع جودة الطرق – الرياض  
+- تحليل بيانات حالة الطرق باستخدام GIS وPython.  
+- ربط البيانات الميدانية مع قواعد بيانات PostGIS.  
+- إنتاج خرائط وتقارير دورية لقياس التقدم.  
+
+#### 🛰️ مشروع تتبع انتشار الكوليرا – الخرطوم  
+- تطوير نموذج Excel + QGIS Dashboard لتتبع الحالات.  
+- إنشاء استبيان KoboToolbox لجمع بيانات ميدانية.  
+- إعداد تقرير PDF يعرض الخطة الكاملة.  
+
+#### 🤖 أتمتة معالجة البيانات (Data Automation)  
+- استخدام Python (Pandas + GeoPandas + Arcpy) لاستخراج بيانات من APIs.  
+- تحويل البيانات الجغرافية إلى GDB / Shapefile.  
+- تسريع عملية إعداد الخرائط والتقارير بنسبة كبيرة.  
+
+<p align="center">
+<img src="https://img.shields.io/badge/ArcGIS%20Automation-blueviolet"> 
+<img src="https://img.shields.io/badge/Python%20Scripts-success"> 
+<img src="https://img.shields.io/badge/Data%20Pipelines-informational"> 
+</p>
+
+---
+
+### 📊 GitHub Stats  
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Terabyte17&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical">
 </p>
 
+---
 
+### 🌐 للتواصل | Connect with me  
 
-
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
+<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a> 
+</p>
